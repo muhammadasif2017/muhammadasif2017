@@ -1,58 +1,52 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br />
+hi, i'm [Zeeshan Noor], a passionate self-taught ReactJS developer from Pakistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-###
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<p align="left">My name is Muhammad Asif and I'm a Software Engineer, from Pakistan</p>
 
-###
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+   
+  
+- 💬 ask me about anything, i am happy to help [email](mailto:zeeshannoor7831@gmail.com) :);
 
-<h2 align="left">About me</h2>
+**languages and tools:**  
 
-###
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   10 hrs 37 mins  ██████████████████░░   71.48 % 
+TypeScript   3 hrs 42 mins   ███████████████░░░░░  60.90 % 
+CSS          14 mins         ██████████░░░░░░░░░░   20.63 % 
+JSON         10 mins         ████████████░░░░░░░░   30.15 % 
+Other        4 mins          ████░░░░░░░░░░░░░░░░   10.50 % 
+```
+<!--END_SECTION:waka-->
 
-###
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<h2 align="left">I code with</h2>
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,982 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 669 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-</div>
+=======================================
 
-###
+![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeeshan-noor&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=contribs,prs)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadasif2017&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadasif2017&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+=======================================
 
-###
-
-<img src="https://raw.githubusercontent.com/muhammadasif2017/muhammadasif2017/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/muhammadasif2017/count.svg?"  />
-</div>
-
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-noor&langs_count=10&layout=compact&show_icons=true&theme=radical)
