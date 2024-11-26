@@ -4,10 +4,8 @@ I am a self-taught ReactJS Developer passionate about building elegant, user-foc
 
 💡 What I Do
 🔹 Creative Problem Solver: I specialize in turning complex ideas into intuitive, interactive applications.
-🔹 Front-End Excellence: My focus lies in delivering polished, responsive, and accessible user interfaces with ReactJS.
+🔹 Front-End Excellence: My focus is delivering polished, responsive, and accessible user interfaces with ReactJS.
 🔹 Code That Matters: I take pride in clean, maintainable code that adheres to best practices, ensuring quality in everything I build.
-
-.
 
 Let’s collaborate and create something amazing together! ✨
 
@@ -39,7 +37,7 @@ Other        4 mins          ████░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -52,7 +50,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 =======================================
 
-![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadasif2017&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=contribs,prs)
+![Muhammad Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadasif2017&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=contribs,prs)
 
 =======================================
 
