@@ -38,19 +38,5 @@ Other        4 mins          ████░░░░░░░░░░░░░
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
-=======================================
-
-![Muhammad Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadasif2017&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide=contribs,prs)
-
-=======================================
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasif2017&langs_count=10&layout=compact&show_icons=true&theme=radical)
