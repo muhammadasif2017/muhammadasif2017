@@ -1,9 +1,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I am a React.js Developer passionate about crafting elegant, user-centered interfaces that transform ideas into engaging digital experiences. Based in Pakistan, I take pride in delivering seamless, intuitive designs through clean, efficient code and a commitment to excellence.
+I am a Software Engineer passionate about crafting elegant, user-centered interfaces that transform ideas into engaging digital experiences. Based in Pakistan, I take pride in delivering seamless, intuitive designs through clean, efficient code and a commitment to excellence.
 
 💡 What I Do </br>
 🔹 Creative Problem Solver: I specialize in turning complex ideas into intuitive, interactive applications.</br>
-🔹 Front-End Excellence: My focus is delivering polished, responsive, and accessible user interfaces with React.js.</br>
+🔹 Front-End Excellence: My focus is on delivering polished, responsive, and accessible user interfaces with React.js.</br>
 🔹 Code That Matters: I take pride in clean, maintainable code that adheres to best practices, ensuring quality in everything I build.
 
 Let’s collaborate and create something amazing together! ✨
