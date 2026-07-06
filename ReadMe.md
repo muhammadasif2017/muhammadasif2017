@@ -24,19 +24,3 @@ Let’s collaborate and create something amazing together! ✨
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 37 mins  ██████████████████░░   71.48 % 
-TypeScript   3 hrs 42 mins   ███████████████░░░░░  60.90 % 
-CSS          14 mins         ██████████░░░░░░░░░░   20.63 % 
-JSON         10 mins         ████████████░░░░░░░░   30.15 % 
-Other        4 mins          ████░░░░░░░░░░░░░░░░   10.50 % 
-```
-<!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasif2017&langs_count=10&layout=compact&show_icons=true&theme=radical)
