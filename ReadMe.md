@@ -2,7 +2,6 @@
 I am a Software Engineer passionate about crafting elegant, user-centered interfaces that transform ideas into engaging digital experiences. Based in Pakistan, I take pride in delivering seamless, intuitive designs through clean, efficient code and a commitment to excellence.
 
 💡 What I Do </br>
-🔹 Creative Problem Solver: I specialize in turning complex ideas into intuitive, interactive applications.</br>
 🔹 Front-End Excellence: My focus is on delivering polished, responsive, and accessible user interfaces with React.js.</br>
 🔹 Code That Matters: I take pride in clean, maintainable code that adheres to best practices, ensuring quality in everything I build.</br>
 🔹 Full-Stack Web Development: Build scalable web applications using React, Next.js, Node.js, and NestJS with a focus on clean architecture and maintainability.</br>
