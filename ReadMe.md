@@ -4,7 +4,10 @@ I am a Software Engineer passionate about crafting elegant, user-centered interf
 💡 What I Do </br>
 🔹 Creative Problem Solver: I specialize in turning complex ideas into intuitive, interactive applications.</br>
 🔹 Front-End Excellence: My focus is on delivering polished, responsive, and accessible user interfaces with React.js.</br>
-🔹 Code That Matters: I take pride in clean, maintainable code that adheres to best practices, ensuring quality in everything I build.
+🔹 Code That Matters: I take pride in clean, maintainable code that adheres to best practices, ensuring quality in everything I build.</br>
+🔹 Full-Stack Web Development: Build scalable web applications using React, Next.js, Node.js, and NestJS with a focus on clean architecture and maintainability.</br>
+🔹 Backend API Development: Design and implement RESTful APIs, business logic layers, and integrations using Node.js and NestJS.</br>
+🔹 System Improvement & Optimization: Improve application performance, refactor legacy codebases, and enhance architecture for scalability and maintainability.
 
 Let’s collaborate and create something amazing together! ✨
 
