@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Asif 👋</h1>
+
 <p align="center">
   <b>Software Engineer | Full-Stack Developer</b>
   <br />
@@ -16,6 +17,10 @@
 </p>
 
 I build web applications end to end, from the interface down to the data layer. Four years of it so far, mostly TypeScript — enterprise platforms, an e-commerce backend, and a customer enrollment system handling live sign-ups.
+
+A lot of that has been fixing things that already existed rather than starting from a blank file: a dashboard that polled when it should have been listening, queries that were slow because nobody had gone back to look at the indexes. I like that kind of problem. The constraints come from the system instead of a spec, and you can measure whether you actually solved it.
+
+I also keep two projects of my own running in production. The CI/CD, the server and the certificates are all mine to fix when they break, which has taught me more than any tutorial did. I use Claude Code daily and read everything it writes before it lands.
 
 Open to full-stack and backend engineering roles.
 
