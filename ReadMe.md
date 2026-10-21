@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20work-2ea44f?style=for-the-badge" alt="Open to work" />
 </p>
 
-Full-stack engineer, four years, mostly TypeScript. Most of that work has been on systems that already existed — replacing polling with WebSockets, fixing queries nobody had gone back to index, rewriting live APIs without changing behaviour for the people using them.
+Full-stack engineer, four years, mostly TypeScript. Most of that work has been on systems that already existed — replacing polling with WebSockets, indexing slow queries found by profiling, rewriting live APIs without changing behaviour for the people using them.
 
 I also run two of my own projects in production, where the CI/CD, the server and the certificates are mine to fix when they break.
 
@@ -26,7 +26,7 @@ Open to full-stack and backend engineering roles — remote or Lahore.
 
 ## 📂 Projects
 
-### 🗂️ &nbsp;[Job Tracker](https://github.com/muhammadasif2017/job-tracker)
+### 🗂️ &nbsp;[Job Tracker](https://github.com/muhammadasif2017/job-tracker) · [Live demo](https://job-tracker-blush-two.vercel.app)
 
 An application for tracking job applications through each stage of a search. I built it because I needed one, and I use it daily.
 
@@ -35,6 +35,16 @@ An application for tracking job applications through each stage of a search. I b
 - Runs in production on Oracle Cloud. Pull-based CI/CD, Jest and Playwright e2e tests against a live database
 
 <sub>**NestJS** · PostgreSQL · Prisma · Next.js 16 · React 19 · TypeScript · BullMQ · Docker</sub>
+
+### 💳 &nbsp;[Stripe Payment Sync](https://github.com/muhammadasif2017/stripe-payment-sync)
+
+A NestJS backend that keeps orders, payments and refunds in step with Stripe, so no payment is lost or recorded twice, even when Stripe sends an event twice or the database goes down.
+
+- Verified webhooks stored once by event ID, processed by a BullMQ worker with retries, and a daily reconciliation against Stripe that repairs anything missed
+- Race conditions between the worker and reconciliation fixed test-first; hardened after a security review (rate limits, CSP, customer details kept out of stored events)
+- 186 unit and 126 e2e tests; CI starts the whole stack in Docker and scans the image with Trivy. Includes a recorded end-to-end demo
+
+<sub>**NestJS** · TypeScript · PostgreSQL · Prisma · Redis · BullMQ · Stripe · Docker · GitHub Actions</sub>
 
 ### 🔐 &nbsp;[Nest Nexus](https://github.com/muhammadasif2017/nest-nexus)
 
@@ -60,9 +70,9 @@ A helpdesk app with an LLM support assistant embedded in it — an LLM feature i
 
 ## 💼 Experience
 
-- **Afiniti** — Rebuilt a supervisor dashboard's client side on WebSockets, taking recurring API calls to 0 (2 remain at initial load). Built NestJS REST APIs behind AI-powered RAG workflows.
+- **Afiniti** · Software Engineer · 2024–2025 — Rebuilt a supervisor dashboard's client side on WebSockets, taking recurring API calls to 0 (2 remain at initial load). Built NestJS REST APIs behind AI-powered RAG workflows.
 - **Freelance** — Sole engineer on an Express.js to NestJS rewrite of a live enrollment API at 100% feature parity, with third-party integrations moved behind a Bull/Redis queue and Redlock on the routes returning duplicate data.
-- **Qbatch** — Took API response time on a high-traffic application from 200ms to 50ms, mostly indexing after profiling MongoDB queries. Built a production e-commerce backend solo, and consolidated 30+ REST endpoints into a single Redux Toolkit state architecture.
+- **Qbatch** · 2021–2023 — Took API response time on a high-traffic application from 200ms to 50ms, mostly indexing after profiling MongoDB queries. Built a production e-commerce backend solo, and consolidated 30+ REST endpoints into a single Redux Toolkit state architecture.
 
 <br />
 
